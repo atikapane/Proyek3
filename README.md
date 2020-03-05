@@ -9,3 +9,4 @@ Anggota
 * M. Dena Adryan
 * Rizki Afrizal Supriyanto
 * Cahya Ramadhan
+* Tiara Lestari Subaran
