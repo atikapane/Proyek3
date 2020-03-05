@@ -5,3 +5,5 @@ Anggota
 * Annazar Darul Ismawan
 * Atika Khoirunnisa
 * Muhamad Alvie Irvansyah
+* M. Dena Adryan
+
