@@ -7,3 +7,4 @@ Anggota
 * Muhamad Alvie Irvansyah
 * M. Dena Adryan
 * Rizki Afrizal Supriyanto
+* Cahya Ramadhan
